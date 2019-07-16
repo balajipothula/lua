@@ -1,0 +1,362 @@
+152:C 02 Dec 15:15:57.604 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+152:C 02 Dec 15:15:57.604 # Redis version=4.0.11, bits=64, commit=bca38d14, modified=0, pid=152, just started
+152:C 02 Dec 15:15:57.604 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.11 (bca38d14/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 157
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+157:M 02 Dec 15:15:57.609 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+157:M 02 Dec 15:15:57.609 # Server initialized
+157:M 02 Dec 15:15:57.609 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+157:M 02 Dec 15:15:57.802 * DB loaded from disk: 0.193 seconds
+157:M 02 Dec 15:15:57.802 * Ready to accept connections
+173:C 03 Dec 16:26:40.927 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+173:C 03 Dec 16:26:40.928 # Redis version=4.0.11, bits=64, commit=bca38d14, modified=0, pid=173, just started
+173:C 03 Dec 16:26:40.928 # Configuration loaded
+178:M 03 Dec 16:26:40.929 # Creating Server TCP listening socket 127.0.0.1:6379: bind: Address in use
+37:C 15 Jan 05:50:26.636 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+37:C 15 Jan 05:50:26.637 # Redis version=4.0.11, bits=64, commit=bca38d14, modified=0, pid=37, just started
+37:C 15 Jan 05:50:26.637 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.11 (bca38d14/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 42
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+42:M 15 Jan 05:50:26.639 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+42:M 15 Jan 05:50:26.640 # Server initialized
+42:M 15 Jan 05:50:26.640 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+42:M 15 Jan 05:50:26.828 * DB loaded from disk: 0.189 seconds
+42:M 15 Jan 05:50:26.828 * Ready to accept connections
+18:C 31 Jan 15:03:55.273 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+18:C 31 Jan 15:03:55.274 # Redis version=4.0.11, bits=64, commit=bca38d14, modified=0, pid=18, just started
+18:C 31 Jan 15:03:55.274 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.11 (bca38d14/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 23
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+23:M 31 Jan 15:03:55.276 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+23:M 31 Jan 15:03:55.276 # Server initialized
+23:M 31 Jan 15:03:55.276 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+23:M 31 Jan 15:03:55.473 * DB loaded from disk: 0.197 seconds
+23:M 31 Jan 15:03:55.473 * Ready to accept connections
+27:C 02 Mar 14:28:19.428 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+27:C 02 Mar 14:28:19.429 # Redis version=4.0.11, bits=64, commit=bca38d14, modified=0, pid=27, just started
+27:C 02 Mar 14:28:19.429 # Configuration loaded
+32:M 02 Mar 14:28:19.430 # Creating Server TCP listening socket 127.0.0.1:6379: bind: Address in use
+14:C 02 Mar 15:46:03.968 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 02 Mar 15:46:03.972 # Redis version=4.0.11, bits=64, commit=bca38d14, modified=0, pid=14, just started
+14:C 02 Mar 15:46:03.972 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.11 (bca38d14/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 02 Mar 15:46:03.977 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 02 Mar 15:46:03.977 # Server initialized
+19:M 02 Mar 15:46:03.977 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19:M 02 Mar 15:46:04.182 * DB loaded from disk: 0.205 seconds
+19:M 02 Mar 15:46:04.182 * Ready to accept connections
+14:C 09 Mar 04:23:35.548 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 09 Mar 04:23:35.549 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 09 Mar 04:23:35.549 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 09 Mar 04:23:35.552 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 09 Mar 04:23:35.552 # Server initialized
+19:M 09 Mar 04:23:35.731 * DB loaded from disk: 0.179 seconds
+19:M 09 Mar 04:23:35.731 * Ready to accept connections
+14:C 10 Mar 04:41:45.986 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 10 Mar 04:41:45.991 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 10 Mar 04:41:45.991 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 18
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+18:M 10 Mar 04:41:45.994 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+18:M 10 Mar 04:41:45.994 # Server initialized
+18:M 10 Mar 04:41:46.178 * DB loaded from disk: 0.184 seconds
+18:M 10 Mar 04:41:46.178 * Ready to accept connections
+14:C 10 Mar 04:44:09.670 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 10 Mar 04:44:09.671 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 10 Mar 04:44:09.671 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 10 Mar 04:44:09.674 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 10 Mar 04:44:09.674 # Server initialized
+19:M 10 Mar 04:44:09.883 * DB loaded from disk: 0.209 seconds
+19:M 10 Mar 04:44:09.883 * Ready to accept connections
+14:C 15 Mar 11:55:28.989 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 15 Mar 11:55:28.989 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 15 Mar 11:55:28.989 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 15 Mar 11:55:28.991 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 15 Mar 11:55:28.991 # Server initialized
+19:M 15 Mar 11:55:29.185 * DB loaded from disk: 0.194 seconds
+19:M 15 Mar 11:55:29.185 * Ready to accept connections
+14:C 15 Mar 16:49:45.047 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 15 Mar 16:49:45.048 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 15 Mar 16:49:45.048 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 15 Mar 16:49:45.051 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 15 Mar 16:49:45.051 # Server initialized
+19:M 15 Mar 16:49:45.221 * DB loaded from disk: 0.170 seconds
+19:M 15 Mar 16:49:45.221 * Ready to accept connections
+14:C 15 Mar 16:51:22.196 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 15 Mar 16:51:22.197 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 15 Mar 16:51:22.197 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 15 Mar 16:51:22.198 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 15 Mar 16:51:22.198 # Server initialized
+19:M 15 Mar 16:51:22.373 * DB loaded from disk: 0.175 seconds
+19:M 15 Mar 16:51:22.373 * Ready to accept connections
+14:C 16 Mar 08:35:03.909 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 16 Mar 08:35:03.910 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 16 Mar 08:35:03.910 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 19
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+19:M 16 Mar 08:35:03.913 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19:M 16 Mar 08:35:03.913 # Server initialized
+19:M 16 Mar 08:35:04.104 * DB loaded from disk: 0.192 seconds
+19:M 16 Mar 08:35:04.104 * Ready to accept connections
+14:C 16 Mar 12:59:12.596 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 16 Mar 12:59:12.596 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 16 Mar 12:59:12.596 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 18
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+18:M 16 Mar 12:59:12.599 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+18:M 16 Mar 12:59:12.599 # Server initialized
+18:M 16 Mar 12:59:12.773 * DB loaded from disk: 0.174 seconds
+18:M 16 Mar 12:59:12.773 * Ready to accept connections
+14:C 16 Mar 14:09:27.023 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 16 Mar 14:09:27.024 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 16 Mar 14:09:27.024 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 18
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+18:M 16 Mar 14:09:27.028 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+18:M 16 Mar 14:09:27.028 # Server initialized
+18:M 16 Mar 14:09:27.201 * DB loaded from disk: 0.173 seconds
+18:M 16 Mar 14:09:27.201 * Ready to accept connections
+14:C 16 Mar 14:14:32.710 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14:C 16 Mar 14:14:32.711 # Redis version=4.0.12, bits=64, commit=1be97168, modified=0, pid=14, just started
+14:C 16 Mar 14:14:32.711 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.12 (1be97168/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 18
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+18:M 16 Mar 14:14:32.713 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+18:M 16 Mar 14:14:32.713 # Server initialized
+18:M 16 Mar 14:14:32.885 * DB loaded from disk: 0.173 seconds
+18:M 16 Mar 14:14:32.886 * Ready to accept connections

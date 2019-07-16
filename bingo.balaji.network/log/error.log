@@ -1,0 +1,1 @@
+2019/03/17 15:17:24 [error] 120#120: *416 failed to load external Lua file "/webapp/bingo.balaji.network/lua/bingo.lua": cannot open /webapp/bingo.balaji.network/lua/bingo.lua: Permission denied, client: 47.30.179.140, server: bingo.balaji.network, request: "GET / HTTP/1.1", host: "bingo.balaji.network"

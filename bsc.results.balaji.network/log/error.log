@@ -1,0 +1,73 @@
+2019/03/17 15:21:47 [error] 125#125: *429 failed to load external Lua file "/webapp/bsc.results.balaji.network/lua/result.lua": cannot open /webapp/bsc.results.balaji.network/lua/result.lua: Permission denied, client: 47.30.179.140, server: bsc.results.balaji.network, request: "POST /result HTTP/1.1", host: "bsc.results.balaji.network", referrer: "https://bsc.results.balaji.network/result"
+2019/03/17 15:22:34 [error] 131#131: *434 lua entry thread aborted: runtime error: /webapp/bsc.results.balaji.network/lua/result.lua:25: module 'redis' not found:
+	no field package.preload['redis']
+	no file './redis.lua'
+	no file '/usr/share/luajit-2.1.0-beta3/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis/init.lua'
+	no file '/usr/share/lua/5.1/redis.lua'
+	no file '/usr/share/lua/5.1/redis/init.lua'
+	no file '/usr/share/lua/common/redis.lua'
+	no file '/usr/share/lua/common/redis/init.lua'
+	no file '/webapp/lualib/redis.lua'
+	no file './redis.so'
+	no file '/usr/local/lib/lua/5.1/redis.so'
+	no file '/usr/lib/lua/5.1/redis.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/webapp/luaso/mime/redis.so'
+	no file '/webapp/luaso/socket/redis.so'
+stack traceback:
+coroutine 0:
+	[C]: in function 'require'
+	/webapp/bsc.results.balaji.network/lua/result.lua:25: in function </webapp/bsc.results.balaji.network/lua/result.lua:1>, client: 47.30.179.140, server: bsc.results.balaji.network, request: "POST /result HTTP/1.1", host: "bsc.results.balaji.network", referrer: "https://bsc.results.balaji.network/index.html"
+2019/03/17 15:22:34 [error] 131#131: *435 lua entry thread aborted: runtime error: /webapp/bsc.results.balaji.network/lua/result.lua:25: module 'redis' not found:
+	no field package.preload['redis']
+	no file './redis.lua'
+	no file '/usr/share/luajit-2.1.0-beta3/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis/init.lua'
+	no file '/usr/share/lua/5.1/redis.lua'
+	no file '/usr/share/lua/5.1/redis/init.lua'
+	no file '/usr/share/lua/common/redis.lua'
+	no file '/usr/share/lua/common/redis/init.lua'
+	no file '/webapp/lualib/redis.lua'
+	no file '/webapp/lualib/redis.lua'
+	no file './redis.so'
+	no file '/usr/local/lib/lua/5.1/redis.so'
+	no file '/usr/lib/lua/5.1/redis.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/webapp/luaso/mime/redis.so'
+	no file '/webapp/luaso/socket/redis.so'
+	no file '/webapp/luaso/mime/redis.so'
+	no file '/webapp/luaso/socket/redis.so'
+stack traceback:
+coroutine 0:
+	[C]: in function 'require'
+	/webapp/bsc.results.balaji.network/lua/result.lua:25: in function </webapp/bsc.results.balaji.network/lua/result.lua:1>, client: 47.30.179.140, server: bsc.results.balaji.network, request: "POST /result HTTP/1.1", host: "bsc.results.balaji.network", referrer: "https://bsc.results.balaji.network/index.html"
+2019/03/17 15:22:35 [error] 131#131: *436 lua entry thread aborted: runtime error: /webapp/bsc.results.balaji.network/lua/result.lua:25: module 'redis' not found:
+	no field package.preload['redis']
+	no file './redis.lua'
+	no file '/usr/share/luajit-2.1.0-beta3/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis.lua'
+	no file '/usr/local/share/lua/5.1/redis/init.lua'
+	no file '/usr/share/lua/5.1/redis.lua'
+	no file '/usr/share/lua/5.1/redis/init.lua'
+	no file '/usr/share/lua/common/redis.lua'
+	no file '/usr/share/lua/common/redis/init.lua'
+	no file '/webapp/lualib/redis.lua'
+	no file '/webapp/lualib/redis.lua'
+	no file '/webapp/lualib/redis.lua'
+	no file './redis.so'
+	no file '/usr/local/lib/lua/5.1/redis.so'
+	no file '/usr/lib/lua/5.1/redis.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/webapp/luaso/mime/redis.so'
+	no file '/webapp/luaso/socket/redis.so'
+	no file '/webapp/luaso/mime/redis.so'
+	no file '/webapp/luaso/socket/redis.so'
+	no file '/webapp/luaso/mime/redis.so'
+	no file '/webapp/luaso/socket/redis.so'
+stack traceback:
+coroutine 0:
+	[C]: in function 'require'
+	/webapp/bsc.results.balaji.network/lua/result.lua:25: in function </webapp/bsc.results.balaji.network/lua/result.lua:1>, client: 47.30.179.140, server: bsc.results.balaji.network, request: "POST /result HTTP/1.1", host: "bsc.results.balaji.network", referrer: "https://bsc.results.balaji.network/index.html"
